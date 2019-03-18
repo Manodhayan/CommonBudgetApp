@@ -1,0 +1,12 @@
+name: wedobudget
+title: wedobudget
+username:
+account: manodhayan
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 773774
+bundleId: 1942599
+url: https://manodhayan.shinyapps.io/wedobudget/
+when: 1552662442.71558
+asMultiple: FALSE
+asStatic: FALSE
